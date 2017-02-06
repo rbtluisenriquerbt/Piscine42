@@ -4,9 +4,15 @@ Piscine 42 is an admission program for 42 Coding School. This piscine is a full 
 
 It was an amazing experience. Highly recommended!
 
-Projects:
+PROJECTS:
+
 Santastua - You should draw a tree with a door and lock,  with a size according to the the parameter entered via command line.
+
 EvalExpr - A calculator that receives an string as an expresion and returns you the result.
-Match and Match - A comparator of strings in which the caracter * can be replaced with anything you want to make it match.
+
+Match and Match - A comparator of strings in which the caracter * can be replaced with anything you want to make it match. It contains 2 folders. MatchTest to evaluate wheter it matches and MatchCounter to count how many times it matches.
+Ex.
+
 Rush - It should display a box with different characters according to the kind of rush.
+
 Basic Programs - This folder contains all the basic programs which can be usefull in some future. For more info, go inside the folder.
